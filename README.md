@@ -34,3 +34,5 @@ Welcome to my GitHub profile! I’m passionate about turning data into insights 
 
 ## 📬 Let's Connect!
 🔗 [LinkedIn](https://linkedin.com/
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=github)
