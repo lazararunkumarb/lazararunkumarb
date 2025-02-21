@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **lazararunkumarb/lazararunkumarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm [Lazar Arun Kumar B]!
+# 👋 Hi, I'm Lazar Arun Kumar B
 🚀 Data Analyst | 📊 Excel | 📈 Power BI | 🐍 Python | 🛢️ MySQL | 🎯 Tableau
 
 Welcome to my GitHub profile! I’m passionate about turning data into insights and building impactful visualizations. Here, you'll find my projects, analyses, and contributions.
